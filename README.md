@@ -5,7 +5,7 @@ i'm currently on summer break from school.
 
 fun fact: i have gotten in trouble at school for tech-related shenanigans 6 times now.
 
-i play a huge part in [rainyware workshop](https://rainyware.rainsounds2.com) in the past, as i am the main software dev for it
+i play a huge part in [rainyware workshop](https://rainyware.rainsounds2.com) , as i am the main software dev for it
 
 # my interests:
 ## game development
