@@ -1,11 +1,11 @@
 # about me
 i am broose too, means soose too. pronouns are they/them.
 
-i'm currently on summer break from school.
+i'm currently an incoming sophomore in high school.
 
 fun fact: i have gotten in trouble at school for tech-related shenanigans 6 times now.
 
-i play a huge part in [rainyware workshop](https://rainyware.rainsounds2.com) , as i am the main software dev for it
+i play a huge part in [rainyware workshop](https://rainyware.rainsounds2.com), as i am the main software dev for it
 
 # my interests:
 ## game development
@@ -30,4 +30,4 @@ very self explanitory. i do silly network shenanigans all the time and also VoIP
 i really enjoy playing modded versions of minecraft (especially with friends) and also i made a few mods of my own using MCreator
 
 # how to yell at me
-gonna get this one figured out eventually
+PLEASE dont
