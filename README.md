@@ -1,11 +1,25 @@
-# about me
-i am broose too, means soose too. pronouns are they/them.
+## about me
 
-i'm currently an incoming sophomore in high school (class of '29).
+whimsical idiot doing silly bullshit.
 
-i have gotten in trouble at school for tech-related shenanigans 6 times now.
+sophomore in high school, founder and main software dev for [rainyware workshop](https://rainyware.org), and certified computer nerd.
 
-i play a huge part in [rainyware workshop](https://rainyware.org), as i am the main software dev for it.
+developer of [starlight](https://rainyware.org/starlight-tools/), [ctrl+z education](https://rainyware.org/ctrlz-education/), and [rainyware launcher](https://rainyware.org/blank-launcher-too/).
 
-most of my stuff is open-source but there's quite a few proprietary softwares.
+## i have gotten in trouble at school for computer-related shenanigans 6 times:
+
+-the "siense siense yay yay" email prank (2023)
+
+-rolling up to the library with whole ass windows 10 on my chromebook (2023)
+
+-the cave + the why why newspaper (2024)
+
+-the "rainy" email (2024)
+
+-gluing my chromebook shut using jb weld during french class (2025)
+
+-[the hepening](https://rainyware.org/what-happened) (2026)
+
+
+
 
